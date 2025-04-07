@@ -51,10 +51,7 @@ To run this program, you need the following:
    ```
 
 ### Step 2: Download the Python Script
-Download the `main.py` file from the repository:
-```bash
-curl -O https://raw.githubusercontent.com/yourusername/beat-marker-fcp/main/main.py
-```
+Download the ZIP file from this Github page
 
 ### Step 3: Install Dependencies
 Install the required Python packages using `pip`:
@@ -69,7 +66,7 @@ pip install librosa numpy pillow tk
 ### Step 1: Launch the Application
 Run the program using the following command:
 ```bash
-python main.py
+python BeatGridDetectFCP.py
 ```
 A graphical window will appear.
 
