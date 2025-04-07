@@ -108,8 +108,31 @@ Verify that the project frame rate matches the one specified in the program (def
 
 ---
 
-## Acknowledgments
+### Notice
 
-- **[Librosa](https://librosa.org/)**: For audio analysis and beat tracking.  
-- **Tkinter**: For creating the GUI.  
-- **Final Cut Pro**: For compatibility with FCPXML format.  
+This application is provided as-is, and users are encouraged to review the following important information:
+
+1. **Copyright and Usage**  
+   - This tool is intended for personal and educational use. Users are responsible for ensuring they have the necessary rights to process any audio files uploaded to this application.  
+   - The app does not redistribute or store copyrighted material. It only processes user-provided audio files temporarily for beat detection.
+
+2. **Third-Party Libraries**  
+   This project uses the following third-party libraries under their respective licenses:  
+   - **[Librosa](https://librosa.org/)** (ISC License)  
+   - **NumPy** (BSD License)  
+   - **Pillow** (HPND License)  
+   - **Tkinter** (Python Software Foundation License)  
+   - Proper attribution and license details are included in the repository.
+
+3. **Final Cut Pro Compatibility**  
+   - This tool generates `.fcpxml` files compatible with Final Cut Pro. It is not affiliated with or endorsed by Apple Inc.  
+   - Use of `.fcpxml` files is subject to Final Cut Pro's terms of service.
+
+4. **Disclaimer**  
+   > **Disclaimer**: This application is provided without warranty of any kind. The author(s) are not liable for any damages or issues arising from its use. Users are solely responsible for ensuring compliance with applicable laws and regulations.
+
+5. **License**  
+   This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as needed, but please include the original license and attribution.
+
+
+---
