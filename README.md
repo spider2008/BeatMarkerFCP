@@ -1,6 +1,11 @@
+---
+
 # Beat Marker for Final Cut Pro (HPSS Enhanced)
 
 Beat Marker is a Python-based tool designed to automatically detect beats in audio files and generate beat markers compatible with Final Cut Pro (FCP). It uses **Harmonic-Percussive Source Separation (HPSS)** to enhance beat detection accuracy. This README provides instructions on how to install, set up, and use the program on macOS.
+
+[![Release v1.0](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/spider2008/BeatMarkerFCP/releases/tag/v1.0)  
+[![License](https://img.shields.io/badge/License-MIT-green)](#notice)
 
 ---
 
@@ -10,8 +15,9 @@ Beat Marker is a Python-based tool designed to automatically detect beats in aud
 2. [Requirements](#requirements)  
 3. [Installation](#installation)  
 4. [Usage](#usage)  
-5. [Troubleshooting](#troubleshooting)  
-6. [License](#license)  
+5. [Releases](#releases)  
+6. [Troubleshooting](#troubleshooting)  
+7. [Notice](#notice)  
 
 ---
 
@@ -51,7 +57,8 @@ To run this program, you need the following:
    ```
 
 ### Step 2: Download the Python Script
-Download the ZIP file from this Github page
+Download the ZIP file from this GitHub page:  
+[Download Source Code](https://github.com/spider2008/BeatMarkerFCP/archive/refs/tags/v1.0.zip)
 
 ### Step 3: Install Dependencies
 Install the required Python packages using `pip`:
@@ -85,6 +92,18 @@ Once the beats are detected:
 
 ### Step 5: Toggle Dark Mode (Optional)
 Click the **"Toggle Dark Mode"** button at the bottom of the window to switch between light and dark themes.  
+
+---
+
+## Releases
+
+The latest stable release of **Beat Marker for FCP** is available here:
+
+[![Release v1.0](https://img.shields.io/badge/Release-v1.0-blue)](https://github.com/spider2008/BeatMarkerFCP/releases/tag/v1.0)
+
+### Download Links
+
+- **macOS (.dmg)**: [Download BeatMarkerFCP_v1.0.dmg](https://github.com/spider2008/BeatMarkerFCP/releases/download/v1.0/BeatFCP.dmg)  
 
 ---
 
@@ -132,7 +151,6 @@ This application is provided as-is, and users are encouraged to review the follo
    > **Disclaimer**: This application is provided without warranty of any kind. The author(s) are not liable for any damages or issues arising from its use. Users are solely responsible for ensuring compliance with applicable laws and regulations.
 
 5. **License**  
-   This project is licensed under the [MIT License](LICENSE). Feel free to modify and distribute it as needed, but please include the original license and attribution.
-
+   This project is licensed under the [MIT License](https://github.com/spider2008/BeatMarkerFCP?tab=MIT-1-ov-file). Feel free to modify and distribute it as needed, but please include the original license and attribution.
 
 ---
